@@ -12,7 +12,7 @@ __END__
 
 =head1 NAME
 
-Git::Gitalist::Object::Blob - Git::Object::Blob module for Gitalist
+Git::Gitalist::Object::Blob - Git::Object::Blob module forGit::Gitalist
 
 =head1 SYNOPSIS
 

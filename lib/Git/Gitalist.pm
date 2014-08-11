@@ -2,7 +2,7 @@ package Git::Gitalist;
 
 use Git::Gitalist::Repository;
 
-$VERSION = '0.000002';
+$VERSION = '0.000003';
 
 1;
 
@@ -19,7 +19,7 @@ Git::Gitalist - An interface to git influenced by Gitalist
 =head1 SYNOPSIS
 
     use Git::Gitalist;
-    my $repository = Git::Gitalist::Repository->new('some-repo/.git'');
+    my $repository = Git::Gitalist::Repository->new('some-repo/.git');
     $repository->name;        # 'Some-Repo'
     $repository->path;        # 'some-repo/.git'
 

@@ -14,7 +14,7 @@ __END__
 
 =head1 NAME
 
-Git::Gitalist::Object::Tree - Git::Object::Tree module for Gitalist
+Git::Gitalist::Object::Tree - Git::Object::Tree module forGit::Gitalist
 
 =head1 SYNOPSIS
 

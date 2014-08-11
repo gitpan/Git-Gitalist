@@ -42,7 +42,7 @@ __END__
 
 =head1 NAME
 
-Git::Gitalist::Object::HasTree - Git::Object::HasTree module for Gitalist
+Git::Gitalist::Object::HasTree - Git::Object::HasTree module forGit::Gitalist
 
 =head1 SYNOPSIS
 
